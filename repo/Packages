@@ -1,10 +1,16 @@
 Package: com.them4ch1n3.exampletweak
+Version: <version>
 Name: ExampleTweak
 Depends: mobilesubstrate
 Version: 0.0.2
+Filename: debs//<deb>
+Size: <deb in bytes>
 Architecture: iphoneos-arm
 Description: An example package for testing out my personal Cydia repository
 Depiction: 
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
 Maintainer: Bruno Jacob Malhadas <brunomalhadas@hotmail.com>
 Author: Bruno Jacob Malhadas <brunomalhadas@hotmail.com>
 Section: Tweaks
