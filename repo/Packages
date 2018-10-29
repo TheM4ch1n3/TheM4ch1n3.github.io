@@ -20,6 +20,7 @@ Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
+Depiction: https://them4ch1n3.github.io/repo/depictions/?p=com.atwiiks.stillhere
 Maintainer: Andrew Wiik
 Author: Andrew Wiik
 Section: Tweaks
