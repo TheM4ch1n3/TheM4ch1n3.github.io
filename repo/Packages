@@ -1,5 +1,4 @@
 Package: com.them4ch1n3.exampletweak
-Version: <version>
 Name: ExampleTweak
 Depends: mobilesubstrate
 Version: 0.0.2
@@ -13,4 +12,14 @@ SHA1: <sha1 hash of deb>
 SHA256: <sha256 of deb>
 Maintainer: Bruno Jacob Malhadas <brunomalhadas@hotmail.com>
 Author: Bruno Jacob Malhadas <brunomalhadas@hotmail.com>
+Section: Tweaks
+
+Package: com.atwiiks.stillhere
+Name: StillHere
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Andrew Wiik
+Author: Andrew Wiik
 Section: Tweaks
