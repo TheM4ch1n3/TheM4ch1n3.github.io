@@ -18,6 +18,7 @@ Package: com.atwiiks.stillhere
 Name: StillHere
 Depends: mobilesubstrate
 Version: 0.0.1
+Filename: https://github.com/TheM4ch1n3/TheM4ch1n3.github.io/blob/master/repo/debs/com.atwiiks.stillhere_0.0.1_iphoneos-arm.deb
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Depiction: https://them4ch1n3.github.io/repo/depictions/?p=com.atwiiks.stillhere
