@@ -1,3 +1,15 @@
+Package: com.atwiiks.stillhere
+Name: StillHere
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Filename: https://github.com/TheM4ch1n3/TheM4ch1n3.github.io/blob/master/repo/debs/com.atwiiks.stillhere_0.0.1_iphoneos-arm.deb
+Depiction: https://them4ch1n3.github.io/repo/depictions/?p=com.atwiiks.stillhere
+Maintainer: Andrew Wiik - ATWiiks <cardflourish101@gmail.com>
+Author: Andrew Wiik - ATWiiks <cardflourish101@gmail.com>
+Section: Tweaks
+
 Package: com.them4ch1n3.exampletweak
 Name: ExampleTweak
 Depends: mobilesubstrate
@@ -12,16 +24,4 @@ SHA1: <sha1 hash of deb>
 SHA256: <sha256 of deb>
 Maintainer: Bruno Jacob Malhadas <brunomalhadas@hotmail.com>
 Author: Bruno Jacob Malhadas <brunomalhadas@hotmail.com>
-Section: Tweaks
-
-Package: com.atwiiks.stillhere
-Name: StillHere
-Depends: mobilesubstrate
-Version: 0.0.1
-Filename: https://github.com/TheM4ch1n3/TheM4ch1n3.github.io/blob/master/repo/debs/com.atwiiks.stillhere_0.0.1_iphoneos-arm.deb
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Depiction: https://them4ch1n3.github.io/repo/depictions/?p=com.atwiiks.stillhere
-Maintainer: Andrew Wiik - ATWiiks <cardflourish101@gmail.com>
-Author: Andrew Wiik - ATWiiks <cardflourish101@gmail.com>
 Section: Tweaks
